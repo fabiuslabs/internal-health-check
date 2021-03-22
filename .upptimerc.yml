@@ -1,6 +1,6 @@
 # Change these first
 owner: lincolnlabs # Your GitHub username
-repo: internal-health-check # Your GitHub repository name
+repo: internal-health-check  # Your GitHub repository name
 
 # Add your sites here
 sites:
