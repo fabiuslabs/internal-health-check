@@ -12,6 +12,8 @@ sites:
     url: https://calldeployed.com
   - name: Fabius Labs
     url: https://fabiuslabs.com
+  - name: JoinLincoln (staging) 
+    url: https://staging.joinlincoln.org
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
