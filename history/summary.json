@@ -4,7 +4,7 @@
     "url": "https://joinlincoln.org",
     "icon": "https://favicons.githubusercontent.com/joinlincoln.org",
     "slug": "join-lincoln",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -13,7 +13,7 @@
     "time": 654,
     "timeDay": 1010,
     "timeWeek": 610,
-    "timeMonth": 678,
+    "timeMonth": 684,
     "timeYear": 654,
     "dailyMinutesDown": {}
   },
