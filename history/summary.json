@@ -58,7 +58,7 @@
     "url": "https://fabiuslabs.com",
     "icon": "https://favicons.githubusercontent.com/fabiuslabs.com",
     "slug": "fabius-labs",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -66,9 +66,9 @@
     "uptimeYear": "100.00%",
     "time": 584,
     "timeDay": 739,
-    "timeWeek": 615,
+    "timeWeek": 567,
     "timeMonth": 624,
-    "timeYear": 684,
+    "timeYear": 683,
     "dailyMinutesDown": {}
   },
   {
