@@ -4,17 +4,17 @@
     "url": "https://joinlincoln.org",
     "icon": "https://favicons.githubusercontent.com/joinlincoln.org",
     "slug": "join-lincoln",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 646,
-    "timeDay": 310,
-    "timeWeek": 548,
-    "timeMonth": 579,
-    "timeYear": 629,
+    "time": 647,
+    "timeDay": 0,
+    "timeWeek": 547,
+    "timeMonth": 580,
+    "timeYear": 628,
     "dailyMinutesDown": {}
   },
   {
@@ -29,10 +29,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 611,
-    "timeDay": 555,
-    "timeWeek": 463,
-    "timeMonth": 480,
-    "timeYear": 531,
+    "timeDay": 483,
+    "timeWeek": 467,
+    "timeMonth": 478,
+    "timeYear": 530,
     "dailyMinutesDown": {}
   },
   {
@@ -50,7 +50,7 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 345,
+    "timeYear": 350,
     "dailyMinutesDown": {}
   },
   {
@@ -65,10 +65,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 603,
-    "timeDay": 397,
-    "timeWeek": 815,
-    "timeMonth": 678,
-    "timeYear": 663,
+    "timeDay": 243,
+    "timeWeek": 728,
+    "timeMonth": 679,
+    "timeYear": 662,
     "dailyMinutesDown": {}
   },
   {
