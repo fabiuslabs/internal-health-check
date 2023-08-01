@@ -1,29 +1,21 @@
 # Change these first
-owner: lincolnlabs # Your GitHub username
+owner: fabiuslabs # Your GitHub username
 repo: internal-health-check  # Your GitHub repository name
 
 # Add your sites here
 sites:
-  - name: JoinLincoln
-    url: https://joinlincoln.org
-  - name: Lincoln Policy
-    url: https://lincolnpolicy.org
-  - name: Deployed
-    url: https://calldeployed.com
   - name: Fabius Labs
     url: https://fabiuslabs.com
-  - name: JoinLincoln (staging) 
-    url: https://staging.joinlincoln.org
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
   # cname: demo.upptime.js.org
   # Uncomment the following line if you don't have a custom domain and add your repo name
   baseUrl: /upptime
-  logoUrl: https://images.ctfassets.net/9epqby2ga2u0/66xWDHiiUEOsM0uS0eEkSW/f72ec5a36c2c6977a31bd871ac53aeed/lincoln-hat-logo-3x.png
-  name: Lincoln Health Checker
+  logoUrl: https://assets-global.website-files.com/643d308e0069813dbe7c79f3/64652de0e115e4ac4b49906d_fabuis-labs-logo-yellow.svg
+  name: Fabius Labs Health Checker
   introTitle: "Web application health monitor"
-  introMessage: "Monitoring for all Lincoln Network and associated web applications"
+  introMessage: "Monitoring for all Fabius Labs and associated web applications"
   navbar:
     - title: Status
       href: /
